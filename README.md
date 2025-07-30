@@ -9,3 +9,8 @@
 ## Git Course Certificate
 ![Git Course Certificate](Git/CERTIFICATES/5189663_P%20SUJITH%20RAM%20Git%20Training%20Certificate.jpg)
 
+## Basic Linux Commands
+![Basic commands in linux part 1](Linux/Basic%20Commands%201.png)
+
+![Basic commands in linux part 1](Linux/Basic%20Commands%202.png)
+
