@@ -17,3 +17,6 @@
 ![Basic commands in linux part 3](Linux/5189663_P%20SUJITH%20RAM%20Basic%20Commands%203.png)
 
 ![Basic commands in linux part 4](Linux/5189663_P%20SUJITH%20RAM%20Basic%20Commands%204.png)
+
+## Introduction to C (C Programming)
+![Sololearn Introduction to C](C_Programming_and_Certifications/Certifications/5189663_P%20SUJITH%20RAM%20INTRODUCTION%20TO%20C.jpg)
