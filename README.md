@@ -20,3 +20,6 @@
 
 ## Introduction to C (C Programming)
 ![Sololearn Introduction to C](C_Programming_and_Certifications/Certifications/5189663_P%20SUJITH%20RAM%20INTRODUCTION%20TO%20C.jpg)
+
+## C Intermediate (C Programming)
+![Sololearn C Intermediate](C_Programming_and_Certifications/Certifications/5189663_P%20SUJITH%20RAM%20C%20INTERMEDIATE.jpg)
